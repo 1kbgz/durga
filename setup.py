@@ -45,9 +45,9 @@ setup(
     description="Distributed Object Database",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/timkpaine/durga",
-    author="Tim Paine",
-    author_email="t.paine154@gmail.com",
+    url="https://github.com/1kbgz/durga",
+    author="1kbgz",
+    author_email="dev@1kbgz.com",
     license="Apache 2.0",
     classifiers=[
         "Development Status :: 3 - Alpha",
