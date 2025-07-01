@@ -58,8 +58,8 @@ master_doc = "index"
 
 # General information about the project.
 project = "durga"
-copyright = "2018, Tim Paine"
-author = "Tim Paine"
+copyright = "2018, 1kbgz"
+author = "1kbgz"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -155,7 +155,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, "durga.tex", "durga Documentation", "Tim Paine", "manual"),
+    (master_doc, "durga.tex", "durga Documentation", "1kbgz", "manual"),
 ]
 
 
